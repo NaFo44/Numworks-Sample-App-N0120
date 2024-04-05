@@ -24,7 +24,7 @@ scoop install git
 scoop bucket add main
 scoop install main/make
 ```
-3. Run this to install the Pre-built [GNU Toolchain for the Arm Architecture](https://scoop.sh/#/apps?q=gcc-arm-none-eabi) :
+3. Run the following command to install the Pre-built [GNU Toolchain for the Arm Architecture](https://scoop.sh/#/apps?q=gcc-arm-none-eabi) :
 ```shell
 scoop bucket add extras
 scoop install extras/gcc-arm-none-eabi
