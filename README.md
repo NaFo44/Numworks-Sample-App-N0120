@@ -2,6 +2,8 @@
 ## The app
 This relatively complex application implements a button and popup display system. You can use this code to create your own application for Numworks (any version) with an attractive GUI.
 
+<img src="/src/screenshot.gif?raw=true" alt="Sample app for Numworks Calculator" width="300" align="right">
+
 ## Install the app
 1. Download the .nwa file from the 'target' directory.
 2. Go to [my.numworks.com/apps](https://my.numworks.com/apps) to upload this sampleApp.nwa file.
