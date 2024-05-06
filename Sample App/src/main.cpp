@@ -160,7 +160,7 @@ int main(int argc, char * argv[]) {
     } else if (currentState.keyDown(EADK::Keyboard::Key::Home)) {
       break;
     }
-    EADK::Timing::msleep(100);
+    eadk_display_wait_for_vblank();
   }
   return 0;
 }
